@@ -2,7 +2,7 @@
 
 I am using GitHub. I am Marion.
 
-## I am a 37 year old student at o'Clock.
+## I am a student at o'Clock.
 
 - 👨🏼‍🎓 student at o'Clock in France
 - 📍 living in Versailles, France
